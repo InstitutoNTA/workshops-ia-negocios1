@@ -110,5 +110,25 @@
         "link": "https://empregadados-my.sharepoint.com/:b:/g/personal/otacilio_empregadados_com_br/IQBf6hM2z0RPRJKliqXFx73nAYNPdEClYPTsiQ8zMiu2K4U?e=L9OIsx"
       }
     ]
+  },
+  {
+    "numero": "10",
+    "data": "29 de junho de 2026",
+    "titulo": "Engenharia de contexto na prática: criando um agente com RAG que conhece os dados da sua empresa",
+    "video": "https://vimeo.com/1205831692/74c816ed10",
+    "materiais": [
+      {
+        "nome": "Assistente_NTA_3Pos.json",
+        "link": "https://empregadados-my.sharepoint.com/:u:/g/personal/otacilio_empregadados_com_br/IQA0GZ1STmNDTLIWLsoHOASaAbvLpntRuL5_SRtkRyIiBeo?e=WPhyUd"
+      },
+      {
+        "nome": "Engenharia_de_Contexto_e_RAG.pdf",
+        "link": "https://empregadados-my.sharepoint.com/:b:/g/personal/otacilio_empregadados_com_br/IQAlvQrFmh-6SY30puol0ll1AVqRGCZApJo_kJC7NNqEcbg?e=0tnFAR"
+      },
+      {
+        "nome": "Manual_n8n_NTA.pdf",
+        "link": "https://empregadados-my.sharepoint.com/:b:/g/personal/otacilio_empregadados_com_br/IQA6WxfyfiEvTIOSsH6z9BDiATTgoa8_aqZe8fG8FYw7OS8?e=XPvKuw"
+      }
+    ]
   }
 ]
