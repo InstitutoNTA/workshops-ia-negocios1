@@ -5,10 +5,7 @@
     "titulo": "Conectando CRM com N8N — Organização Inteligente de Clientes com IA",
     "video": "https://vimeo.com/1148020835/9f80f46118",
     "materiais": [
-      {
-        "nome": "CRM Zoho.pdf",
-        "link": "https://empregadados-my.sharepoint.com/:b:/g/personal/otacilio_empregadados_com_br/IQBMiS49fz0PTZfeyIlVkbg1Ac2jSVvyDyRp1hD4JVzoUHQ?e=CDlrdr"
-      }
+      { "nome": "CRM Zoho.pdf", "link": "https://empregadados-my.sharepoint.com/:b:/g/personal/otacilio_empregadados_com_br/IQBMiS49fz0PTZfeyIlVkbg1Ac2jSVvyDyRp1hD4JVzoUHQ?e=CDlrdr" }
     ]
   },
   {
@@ -17,10 +14,7 @@
     "titulo": "Consultor de Dados — SQL em Linguagem Natural",
     "video": "https://vimeo.com/1157340826/4c7d2563aa",
     "materiais": [
-      {
-        "nome": "Engenharia de Prompts - Eng. de Dados e IA Workshop.pdf",
-        "link": "https://empregadados-my.sharepoint.com/:b:/g/personal/otacilio_empregadados_com_br/IQD7ETq0f4miQ7rhTm0TEZ-HAWppFfsNPlMiMgIRAV_Mgfk?e=ZF5y3A"
-      }
+      { "nome": "Engenharia de Prompts - Eng. de Dados e IA Workshop.pdf", "link": "https://empregadados-my.sharepoint.com/:b:/g/personal/otacilio_empregadados_com_br/IQD7ETq0f4miQ7rhTm0TEZ-HAWppFfsNPlMiMgIRAV_Mgfk?e=ZF5y3A" }
     ]
   },
   {
@@ -29,10 +23,7 @@
     "titulo": "Aplicando Engenharia de Prompt em Agente de IA com N8N",
     "video": "https://vimeo.com/1159673109/6776a40895",
     "materiais": [
-      {
-        "nome": "Projeto ETL, Data Quality e Agentes de IA com N8N, Supabase e Bacen.pdf",
-        "link": "https://empregadados-my.sharepoint.com/:b:/g/personal/otacilio_empregadados_com_br/IQDxZZYvz6wkR5V5bQGancUdASIY7Oj5Aw5AWWg7MJ8EgmY?e=ZwDJBe"
-      }
+      { "nome": "Projeto ETL, Data Quality e Agentes de IA com N8N, Supabase e Bacen.pdf", "link": "https://empregadados-my.sharepoint.com/:b:/g/personal/otacilio_empregadados_com_br/IQDxZZYvz6wkR5V5bQGancUdASIY7Oj5Aw5AWWg7MJ8EgmY?e=ZwDJBe" }
     ]
   },
   {
@@ -41,10 +32,7 @@
     "titulo": "Conectando IA ao Power BI — Gerando Dashboards Inteligentes",
     "video": "https://vimeo.com/1168203358/432396711f",
     "materiais": [
-      {
-        "nome": "ETL_Engenharia_Prompt.json",
-        "link": "https://empregadados-my.sharepoint.com/:u:/g/personal/otacilio_empregadados_com_br/IQDZD9OAPckUS6nOVq_sipg6AdIbrVhJjLGXk75qeFB10Us?e=9JCWpi"
-      }
+      { "nome": "ETL_Engenharia_Prompt.json", "link": "https://empregadados-my.sharepoint.com/:u:/g/personal/otacilio_empregadados_com_br/IQDZD9OAPckUS6nOVq_sipg6AdIbrVhJjLGXk75qeFB10Us?e=9JCWpi" }
     ]
   },
   {
@@ -53,10 +41,7 @@
     "titulo": "Extração Inteligente de Documentos com LLM — Deploy em Docker e Kubernetes",
     "video": "https://vimeo.com/1179299623/f2a7094ccf",
     "materiais": [
-      {
-        "nome": "Extração de documentos.zip",
-        "link": "https://empregadados-my.sharepoint.com/:u:/g/personal/otacilio_empregadados_com_br/IQBVaDrCCsBVQZU_AhPGCgMdAaC6SPKWMYDYuTriIUcjNLY?e=SANqUS"
-      }
+      { "nome": "Extração de documentos.zip", "link": "https://empregadados-my.sharepoint.com/:u:/g/personal/otacilio_empregadados_com_br/IQBVaDrCCsBVQZU_AhPGCgMdAaC6SPKWMYDYuTriIUcjNLY?e=SANqUS" }
     ]
   },
   {
@@ -65,10 +50,7 @@
     "titulo": "Extração Inteligente de Documentos com LLM — Parte 2",
     "video": "https://vimeo.com/1181325827/008ebe8b38",
     "materiais": [
-      {
-        "nome": "Extração de documentos (Parte 2).zip",
-        "link": "https://empregadados-my.sharepoint.com/:u:/g/personal/otacilio_empregadados_com_br/IQAxMFN76wh7QIiQ7KNgX-3bAUSezQo74xVLPcXgh1bq5Is?e=02EYBb"
-      }
+      { "nome": "Extração de documentos (Parte 2).zip", "link": "https://empregadados-my.sharepoint.com/:u:/g/personal/otacilio_empregadados_com_br/IQAxMFN76wh7QIiQ7KNgX-3bAUSezQo74xVLPcXgh1bq5Is?e=02EYBb" }
     ]
   },
   {
@@ -77,14 +59,8 @@
     "titulo": "Lakehouse de Dados Financeiros Brasileiros na Azure — Desenvolvido com Cursor e Azure MCP",
     "video": "https://vimeo.com/1187341690/a6b370f10f",
     "materiais": [
-      {
-        "nome": "Lakehouse-Financeiro-BR.pdf",
-        "link": "https://empregadados-my.sharepoint.com/:b:/g/personal/otacilio_empregadados_com_br/IQC0CpEQSJDFSLN5Pgo0WsGAAd6C43UzWL8ZHpoR1PMTsmw?e=uSAGRc"
-      },
-      {
-        "nome": "Material complementar",
-        "link": "https://empregadados-my.sharepoint.com/:t:/g/personal/otacilio_empregadados_com_br/IQBKFSDGYTfXS6HD8Cm6zQhfAbz4FtBU8CYnVIi6vM-gflY?e=elcqWs"
-      }
+      { "nome": "Lakehouse-Financeiro-BR.pdf", "link": "https://empregadados-my.sharepoint.com/:b:/g/personal/otacilio_empregadados_com_br/IQC0CpEQSJDFSLN5Pgo0WsGAAd6C43UzWL8ZHpoR1PMTsmw?e=uSAGRc" },
+      { "nome": "Material complementar", "link": "https://empregadados-my.sharepoint.com/:t:/g/personal/otacilio_empregadados_com_br/IQBKFSDGYTfXS6HD8Cm6zQhfAbz4FtBU8CYnVIi6vM-gflY?e=elcqWs" }
     ]
   },
   {
@@ -93,10 +69,7 @@
     "titulo": "Entendendo como o ChatGPT funciona por trás: Aula Definitiva sobre a Arquitetura Transformer e a Inteligência Artificial Generativa",
     "video": "https://vimeo.com/1196396241/1f58b3cba4",
     "materiais": [
-      {
-        "nome": "Material — Arquitetura Transformer.pdf",
-        "link": "https://empregadados-my.sharepoint.com/:b:/g/personal/otacilio_empregadados_com_br/IQBf6hM2z0RPRJKliqXFx73nAYNPdEClYPTsiQ8zMiu2K4U?e=t4wETp"
-      }
+      { "nome": "Material — Arquitetura Transformer.pdf", "link": "https://empregadados-my.sharepoint.com/:b:/g/personal/otacilio_empregadados_com_br/IQBf6hM2z0RPRJKliqXFx73nAYNPdEClYPTsiQ8zMiu2K4U?e=t4wETp" }
     ]
   },
   {
@@ -105,10 +78,7 @@
     "titulo": "Entendendo como o ChatGPT funciona por trás: Arquitetura Transformer IA Generativa — Parte 2",
     "video": "https://vimeo.com/1198783357/6b36929170",
     "materiais": [
-      {
-        "nome": "Material — Arquitetura Transformer.pdf",
-        "link": "https://empregadados-my.sharepoint.com/:b:/g/personal/otacilio_empregadados_com_br/IQBf6hM2z0RPRJKliqXFx73nAYNPdEClYPTsiQ8zMiu2K4U?e=L9OIsx"
-      }
+      { "nome": "Material — Arquitetura Transformer.pdf", "link": "https://empregadados-my.sharepoint.com/:b:/g/personal/otacilio_empregadados_com_br/IQBf6hM2z0RPRJKliqXFx73nAYNPdEClYPTsiQ8zMiu2K4U?e=L9OIsx" }
     ]
   },
   {
@@ -117,36 +87,19 @@
     "titulo": "Engenharia de contexto na prática: criando um agente com RAG que conhece os dados da sua empresa",
     "video": "https://vimeo.com/1205831692/74c816ed10",
     "materiais": [
-      {
-        "nome": "Assistente_NTA_3Pos.json",
-        "link": "https://empregadados-my.sharepoint.com/:u:/g/personal/otacilio_empregadados_com_br/IQA0GZ1STmNDTLIWLsoHOASaAbvLpntRuL5_SRtkRyIiBeo?e=WPhyUd"
-      },
-      {
-        "nome": "Engenharia_de_Contexto_e_RAG.pdf",
-        "link": "https://empregadados-my.sharepoint.com/:b:/g/personal/otacilio_empregadados_com_br/IQAlvQrFmh-6SY30puol0ll1AVqRGCZApJo_kJC7NNqEcbg?e=0tnFAR"
-      },
-      {
-        "nome": "Manual_n8n_NTA.pdf",
-        "link": "https://empregadados-my.sharepoint.com/:b:/g/personal/otacilio_empregadados_com_br/IQA6WxfyfiEvTIOSsH6z9BDiATTgoa8_aqZe8fG8FYw7OS8?e=XPvKuw"
-      }
+      { "nome": "Assistente_NTA_3Pos.json", "link": "https://empregadados-my.sharepoint.com/:u:/g/personal/otacilio_empregadados_com_br/IQA0GZ1STmNDTLIWLsoHOASaAbvLpntRuL5_SRtkRyIiBeo?e=WPhyUd" },
+      { "nome": "Engenharia_de_Contexto_e_RAG.pdf", "link": "https://empregadados-my.sharepoint.com/:b:/g/personal/otacilio_empregadados_com_br/IQAlvQrFmh-6SY30puol0ll1AVqRGCZApJo_kJC7NNqEcbg?e=0tnFAR" },
+      { "nome": "Manual_n8n_NTA.pdf", "link": "https://empregadados-my.sharepoint.com/:b:/g/personal/otacilio_empregadados_com_br/IQA6WxfyfiEvTIOSsH6z9BDiATTgoa8_aqZe8fG8FYw7OS8?e=XPvKuw" }
     ]
   },
   {
-  "numero": "11",
-  "data": "08 de julho de 2026",
-  "titulo": "Engenharia de contexto na prática: criando um agente com RAG que conhece os dados da sua empresa - Continuação",
-  "video": "https://vimeo.com/1208496586/61b17d0d03",
-  "materiais": [
-    { 
-      "nome": "Engenharia de Contexto RAG", 
-      "link": "https://empregadados-my.sharepoint.com/:u:/g/personal/otacilio_empregadados_com_br/IQDvCf8KWfwARIt6qs4-SCnIAeQodY9ATesFz6-PxBOoXxM?e=VQ03pw"
-      "link": "https://empregadados-my.sharepoint.com/:u:/g/personal/otacilio_empregadados_com_br/IQDvCf8KWfwARIt6qs4-SCnIAeQodY9ATesFz6-PxBOoXxM?e=VQ03pw"
-      "link": "https://empregadados-my.sharepoint.com/:u:/g/personal/otacilio_empregadados_com_br/IQCd2CvM61ihQqpl-YPZkQZnAR5RZGMYoB4THmWeS1ceNBQ?e=uzwPik"
-    },
-     {
-      "nome": "Vídeo Complementar — Agente de RAG",
-      "link": "https://empregadados-my.sharepoint.com/:v:/g/personal/otacilio_empregadados_com_br/IQD1buzw-ddhSJxXjEECLxbJAe13t7hJtXsVthY8gL1Kj-Q?e=JJgguY"
-    }
-  ]
-}
+    "numero": "11",
+    "data": "08 de julho de 2026",
+    "titulo": "Engenharia de contexto na prática: criando um agente com RAG que conhece os dados da sua empresa - Continuação",
+    "video": "https://vimeo.com/1208496586/61b17d0d03",
+    "materiais": [
+      { "nome": "Engenharia de Contexto RAG", "link": "https://empregadados-my.sharepoint.com/:f:/g/personal/otacilio_empregadados_com_br/IgA9fEAXAgD_R5X2rCuB3LvpAej5qeKVVnzRPmwaC27ZcP0?e=wLSfYI" },
+      { "nome": "Vídeo Complementar — Agente de RAG", "link": "https://empregadados-my.sharepoint.com/:v:/g/personal/otacilio_empregadados_com_br/IQD1buzw-ddhSJxXjEECLxbJAe13t7hJtXsVthY8gL1Kj-Q?e=JJgguY" }
+    ]
+  }
 ]
