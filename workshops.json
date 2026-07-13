@@ -98,7 +98,8 @@
     "titulo": "Engenharia de contexto na prática: criando um agente com RAG que conhece os dados da sua empresa - Continuação",
     "video": "https://vimeo.com/1208496586/61b17d0d03",
     "materiais": [
-      { "nome": "Engenharia de Contexto RAG", "link": "https://empregadados-my.sharepoint.com/:f:/g/personal/otacilio_empregadados_com_br/IgA9fEAXAgD_R5X2rCuB3LvpAej5qeKVVnzRPmwaC27ZcP0?e=wLSfYI" },
+      { "nome": "Engenharia de Contexto RAG", "link": "https://empregadados-my.sharepoint.com/:b:/g/personal/otacilio_empregadados_com_br/IQAlvQrFmh-6SY30puol0ll1AVqRGCZApJo_kJC7NNqEcbg?e=yFfkNS" },
+      { "nome": "RAG Engenharia de Contexto", "link": "https://empregadados-my.sharepoint.com/:u:/g/personal/otacilio_empregadados_com_br/IQDvCf8KWfwARIt6qs4-SCnIAeQodY9ATesFz6-PxBOoXxM?e=qd9mVY"},
       { "nome": "Vídeo Complementar — Agente de RAG", "link": "https://empregadados-my.sharepoint.com/:v:/g/personal/otacilio_empregadados_com_br/IQD1buzw-ddhSJxXjEECLxbJAe13t7hJtXsVthY8gL1Kj-Q?e=JJgguY" }
     ]
   }
